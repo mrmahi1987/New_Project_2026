@@ -14,3 +14,17 @@ Think of Git like “Save + History + Undo + Collaboration” for projects.
 ✔ Work with multiple people
 ✔ Create branches to experiment safely
 ✔ Avoid losing work
+
+
+Check status
+git status
+
+
+Shows modified, staged, untracked files.
+
+2️⃣ Initialize a repo
+git init
+
+3️⃣ Add files
+git add file.txt
+git add .
