@@ -1,0 +1,16 @@
+What is Git?
+
+Git is a version control system.
+
+In simple words:
+👉 It keeps track of who changed what, when, and why in your code or files.
+
+Think of Git like “Save + History + Undo + Collaboration” for projects.
+
+🔹 Why do we use Git?
+
+✔ Track changes in code
+✔ Go back to old versions
+✔ Work with multiple people
+✔ Create branches to experiment safely
+✔ Avoid losing work
